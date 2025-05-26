@@ -1,6 +1,9 @@
 # git-conflict-challenge
 
-# Teste de conflit :
-# Modif sur git(en local)
 
-encore un ajout
+# Gestion conflit
+
+Ce n'eatit pas facile, mais nous avonsgere ce conflit !
+
+Nous alllons essayer de les eviter pour la suite !
+
